@@ -9,7 +9,7 @@ import sys
 lib_list = ['math', 'wave', 'container', 'exception', 'graph', 'iostreams', 'locale', 'log',
             'program_options', 'random', 'regex', 'mpi', 'serialization', 'signals',
             'coroutine', 'fiber', 'context', 'timer', 'thread', 'chrono', 'date_time',
-            'atomic', 'filesystem', 'system', 'graph_parallel', 'python',
+            'atomic', 'filesystem', 'system', 'graph_parallel', 'python', 'process',
             'stacktrace', 'test', 'type_erasure']
 
 
